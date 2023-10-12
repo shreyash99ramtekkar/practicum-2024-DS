@@ -1,10 +1,6 @@
-# MCM PRACTICUM
+# Examining Feature engineering techniques in time series prediction with application in forex exchange 
 
-This is a template for MCM practicums.  Please read these instructions carefully.
-
-This file is written in
-[markdown](https://guides.github.com/features/mastering-markdown/).  Markdown
-is a suitable format for documents stored in git repositories.
+Traders use technical analysis such as candle sticks and fundamental analaysis such as economic events to examine patterns in many finance indices. We are going to examine how motifs could be used to predit the next motifs. This would help traders to predit the patterns in the future and take better trading decisions
 
 ## Instructions
 
